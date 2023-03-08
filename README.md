@@ -5,3 +5,6 @@
 # https://github.com/Payal-dh/Belly_Button-Challenge/blob/master/app.js
 # https://plotly.com/javascript/horizontal-bar-charts/
 # https://github.com/Payal-dh/Belly_Button-Challenge/blob/master/app.js
+
+# github deployment website
+# https://al0000001.github.io/belly-button-challenge/
